@@ -1,29 +1,53 @@
-## What is ReactCraft
+# ReactCraft
 
 Welcome to ReactCraft, a delightful blend of Minecraft's classic gameplay and the immersive capabilities of React and Three.js. Get ready to dive into a world of block-building adventures where you can construct, demolish, and create structures using a selection of five different blocks. Let your imagination soar as you embark on an exciting journey of creativity and exploration!
 
-In ReactCraft, the art of block building is at your fingertips. With intuitive controls and a user-friendly interface, constructing and shaping the world around you is a breeze. Choose from a range of five fundamental blocks, including wood, wood planks, cobblestone, dirt, and more. Each block has its unique characteristics and aesthetics, providing you with a diverse palette to bring your ideas to life.
+![ReactCraft Gameplay](link-to-gameplay-screenshot)
 
-Bring your dreams to reality as you build structures that reflect your imagination. Erect towering castles, cozy cottages, underground bunkers, or sprawling landscapes—the possibilities are limited only by your creativity. Combine different block types strategically to add depth and character to your creations, and watch as your world evolves with every stroke of your virtual hammer.
+## Features
 
-ReactCraft offers a seamless experience powered by React and Three.js, ensuring smooth interactions and responsive gameplay. Whether you're placing blocks, breaking down structures, or sculpting the terrain, the game reacts to your actions in real-time, immersing you in a world that truly feels alive.
+- Intuitive controls and a user-friendly interface.
+- Choose from a range of five fundamental blocks: wood, wood planks, cobblestone, dirt, and more.
+- Each block has unique characteristics and aesthetics, providing a diverse palette to bring your ideas to life.
+- Build structures that reflect your imagination, such as castles, cottages, bunkers, or landscapes.
+- Combine different block types strategically to add depth and character to your creations.
+- Real-time reactions and responsive gameplay powered by React and Three.js.
 
-## How to play?
+## How to Play
 
-Currently it has 5 types of blocks: Grass, Wood, Log, Glass and Dirt.
-You switch blocks with numbers 1-5 on your keyboard.
-You navigate the world with the mouse and WASD.
-You can click to add blocks and Alt+Click to remove blocks.
-You world is stored in your browsers local storage.
+1. Currently, there are five types of blocks available: Grass, Wood, Log, Glass, and Dirt.
+2. Switch between blocks using the numbers 1-5 on your keyboard.
+3. Navigate the world using the mouse and WASD keys.
+4. Click to add blocks and use Alt+Click to remove blocks.
+5. Your world is stored in your browser's local storage.
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm install && npm start`
+To run the game locally, follow these steps:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Clone this repository to your local machine.
+2. Install the required dependencies by running `npm install`.
+3. Start the development server with `npm start`.
+4. Open your browser and visit [http://localhost:3000](http://localhost:3000) to play the game.
+5. Make edits to the code, and the page will automatically reload with your changes.
+6. Check the console for any lint errors during development.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Contributing
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+We welcome contributions from the community! If you'd like to contribute to ReactCraft, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with descriptive messages.
+4. Push your changes to your forked repository.
+5. Submit a pull request to the main repository.
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/Kartik-Katkar/ReactCraft/blob/main/LICENSE).
+
+## Acknowledgements
+
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Thanks to Freecodecamp for guding through the peoject
+- Special thanks to the contributors who helped make ReactCraft a reality.
