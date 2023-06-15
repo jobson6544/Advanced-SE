@@ -2,7 +2,18 @@
 
 Welcome to ReactCraft, a delightful blend of Minecraft's classic gameplay and the immersive capabilities of React and Three.js. Get ready to dive into a world of block-building adventures where you can construct, demolish, and create structures using a selection of five different blocks. Let your imagination soar as you embark on an exciting journey of creativity and exploration!
 
-![ReactCraft Gameplay](link-to-gameplay-screenshot)
+
+<p align="center">
+  <img width="700" align="center" src="./Screenshots/1.png" alt="Image"/>
+</p>
+
+<p align="center">
+  <img width="700" align="center" src="./Screenshots/2.png" alt="Image"/>
+</p>
+
+<p align="center">
+  <img width="700" align="center" src="./Screenshots/3.png" alt="Image"/>
+</p>
 
 ## Features
 
