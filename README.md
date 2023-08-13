@@ -43,16 +43,6 @@ To run the game locally, follow these steps:
 5. Make edits to the code, and the page will automatically reload with your changes.
 6. Check the console for any lint errors during development.
 
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to ReactCraft, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to your forked repository.
-5. Submit a pull request to the main repository.
-
 ## License
 
 This project is licensed under the [MIT License](https://github.com/Kartik-Katkar/ReactCraft/blob/main/LICENSE).
@@ -61,4 +51,3 @@ This project is licensed under the [MIT License](https://github.com/Kartik-Katka
 
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 - Thanks to Freecodecamp for guding through the peoject
-- Special thanks to the contributors who helped make ReactCraft a reality.
